@@ -53,7 +53,6 @@ while count <= 10:
 print(pares)
 print(impares)
 
-print(count)
 
 
 
